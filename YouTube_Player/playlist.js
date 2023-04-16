@@ -4,8 +4,8 @@ let playList = [
     "MM6K1k7kRH8"
 ];
 
-playTime=[
+let playTime=[
     [60,80],
     [32,52],
     [10,30]
-]
+];

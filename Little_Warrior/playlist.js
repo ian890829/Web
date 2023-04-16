@@ -4,8 +4,8 @@ let playList = [
     "zlOjAU_-hMA"
 ];
 
-playTime=[
+let playTime=[
     [285,290],
     [111,118],
     [163,165]
-]
+];

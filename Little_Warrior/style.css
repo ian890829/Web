@@ -1,0 +1,19 @@
+body{
+    text-align: left;
+    width: 800;
+    height: 800;
+}
+video{
+    text-align: right;
+}
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+}
+
+#talkBox{
+    height: 20px;
+    color: red;
+    font-size: 36px;
+    font-weight: bold;
+}
